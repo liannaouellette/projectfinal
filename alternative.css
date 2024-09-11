@@ -1,0 +1,14 @@
+* {
+    background-color: rgba(245, 241, 239, 0.929);
+    margin: 5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;;
+    /*This makes my entire code bold unless i change it*/
+}
+
+.alter {
+    font-size: xxx-large;
+}
+.alt {
+    font-size: x-large;
+}
