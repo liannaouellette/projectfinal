@@ -1,5 +1,6 @@
 * {
-    background-color: rgba(146, 180, 230, 0.929);
+    background-color:
+    rgba(146, 180, 230, 0.929);
     margin: 5;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;;
@@ -7,12 +8,12 @@
 }
 .apple {
     font-size: 30px;
-    padding-left: 400px;
+    padding-left: 540px;
     padding-top: 100px;
 }
 
 .pic {
-    padding-left: 90px;
+    padding-left: 150px;
     float: left;
 }
 
@@ -38,7 +39,7 @@ hr {
     width: 250px;
    float: right;
    padding-right: 70px;
-   padding-top: 40px;
+   padding-top: 100px;
    
   
  

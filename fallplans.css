@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(240, 229, 157);
+    background-color: rgb(195, 211, 225);
     margin: 5;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;;
@@ -28,7 +28,7 @@ table {
   }
 
   th {
-    border: 1px solid  rgb(240, 229, 157);
+    border: 1px solid rgb(195, 211, 225);
     text-align: middle;
     padding: 6px;
     left: 200px; 
